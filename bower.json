@@ -1,0 +1,17 @@
+{
+  "name": "template",
+  "authors": [
+    "Hariprasath12 <Hariprasath.1295@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

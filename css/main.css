@@ -1,0 +1,38 @@
+body{
+	display: block;
+}
+.profile{
+	
+}
+.main{
+padding-top: 30px;
+}
+
+.navbar-brand{
+	font-size: 30px;
+	
+}
+
+.something{
+	background-color: #8C9AD9;
+	border-radius: 3px;
+      word-spacing: 3px;
+}
+.something.text{
+	padding: 3px;
+}
+.skills li{
+	width: 200px;
+	height: 200px;
+	background-color: #BCE7B6;
+	margin-right: 5px;
+	margin-bottom: 10px;
+	
+	border-radius: 5px;
+}
+.skills li img{
+	margin-left: 50px;
+	margin-top: 5px;
+
+
+}
