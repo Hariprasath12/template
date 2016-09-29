@@ -1,7 +1,5 @@
 var app=angular.module("mysite",['ui.router']);
-app.controller('name', ['$scope', function($scope){
-	$scope.name="hari";
-}]);
+
 app.config([
 '$stateProvider',
 '$urlRouterProvider',
@@ -24,3 +22,5 @@ function($stateProvider, $urlRouterProvider) {
 
   $urlRouterProvider.otherwise('index');
 }]);
+
+
