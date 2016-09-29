@@ -12,6 +12,7 @@ body{
 	font-size: 30px;
 	
 }
+
 .main{
   	padding: 25px;
   }
@@ -53,4 +54,7 @@ body{
 .contact li i{
 	position: relative;
 	top: 20px;
+}
+.contact ul h2 i{
+	color: red;
 }
